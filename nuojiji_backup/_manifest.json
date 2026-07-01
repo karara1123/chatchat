@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1782932587859,
+  "timestamp": 1782932594205,
   "appVersion": "6.9.7 (2026.06.26)",
   "tables": [
     "characters",
@@ -65,6 +65,9 @@
     "fontStore",
     "_migration"
   ],
+  "chunkedTables": {
+    "stickers": 2
+  },
   "completedTables": {
     "characters": true,
     "worldBooks": true,
