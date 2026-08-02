@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1785659741677,
+  "timestamp": 1785659748294,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -68,7 +68,8 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 14
+    "messages": 14,
+    "imageStore": 1
   },
   "completedTables": {
     "characters": true,
@@ -101,7 +102,8 @@
     "calendarData": true,
     "groupChats": true,
     "xinsheng": true,
-    "pomodoroSessions": true
+    "pomodoroSessions": true,
+    "couplesData": true
   },
   "source": "auto",
   "inProgress": true
