@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789149774709,
+  "timestamp": 1789338406725,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -46,6 +46,7 @@
     "quickReplies",
     "goingOutState",
     "goingOutAreas",
+    "goingOutLogs",
     "mapRasterCache",
     "customGames",
     "customGameSaves",
@@ -81,6 +82,8 @@
     "shopOrders",
     "shopData",
     "shopFulfillments",
+    "deliveryOrders",
+    "deliveryData",
     "chatVariables",
     "plugins",
     "avatarFrames",
@@ -181,5 +184,5 @@
     "chatSettingsPresets": true
   },
   "source": "auto",
-  "inProgress": false
+  "inProgress": true
 }
